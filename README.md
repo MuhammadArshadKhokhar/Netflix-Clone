@@ -4,11 +4,9 @@ This is a front-end web development project that aims to replicate the design an
 
 #### **Features**
 
-
 * **Responsive Layout:** The design adapts to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
 
-    ***Hero Section:** A full-screen background image with a semi-transparent overlay and a centered call-      to-action for user sign-up.
-
+  ***Hero Section:** A full-screen background image with a semi-transparent overlay and a centered call-      to-action for user sign-up.
 * **Trending Now Section:** A horizontal scrollable section for showcasing popular movies and TV shows with numbered rankings.
 * **Reasons to Join Section:** A series of cards highlighting key features of the service, each with a title, description, and an illustrative icon.
 * **FAQ Section:** A section for frequently asked questions, with a collapsible design (using an accordion-style component).
@@ -63,11 +61,11 @@ To get a local copy up and running, follow these simple steps.
 
 ###### 1. Clone the repository:
 
-git clonehttps://github.com/MuhammadArshadKhokhar/Web-Development/tree/main/Project2
+https://github.com/MuhammadArshadKhokhar/Amazon-Clone.git
 
 ###### 2. Navigate to the project directory:
 
-cd Project2
+Amazon-Clone
 
 ###### 3. Open the file:
 
