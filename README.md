@@ -65,7 +65,7 @@ https://github.com/MuhammadArshadKhokhar/Amazon-Clone.git
 
 ###### 2. Navigate to the project directory:
 
-Amazon-Clone
+cd Amazon-Clone
 
 ###### 3. Open the file:
 
