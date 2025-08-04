@@ -61,7 +61,7 @@ To get a local copy up and running, follow these simple steps.
 
 ###### 1. Clone the repository:
 
-https://github.com/MuhammadArshadKhokhar/Amazon-Clone.git
+https://github.com/MuhammadArshadKhokhar/Netflix-Clone.git
 
 ###### 2. Navigate to the project directory:
 
